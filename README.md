@@ -1,3 +1,8 @@
+# Branch information
+
+This is the development branch for struct-visualizer.
+Once the prior version is complete it will be merged.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
